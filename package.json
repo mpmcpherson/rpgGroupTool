@@ -1,6 +1,20 @@
 {
-  "name": "socket-chat-example",
+  "name": "rpg-tool",
   "version": "0.0.1",
   "description": "my first socket.io app",
-  "dependencies": {}
+  "dependencies": {},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpmcpherson/rpgGroupTool.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpmcpherson/rpgGroupTool/issues"
+  },
+  "homepage": "https://github.com/mpmcpherson/rpgGroupTool#readme"
 }

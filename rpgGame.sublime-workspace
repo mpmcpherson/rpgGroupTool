@@ -1,0 +1,797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Com",
+				"ComNavBIPassword"
+			],
+			[
+				"PASSWORD",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"error",
+				"error_log〔function〕"
+			],
+			[
+				"session",
+				"sessionID"
+			],
+			[
+				"addev",
+				"addEventListener"
+			],
+			[
+				"signup",
+				"signup_btn"
+			],
+			[
+				"login",
+				"login_btn〔variable〕"
+			],
+			[
+				"modal",
+				"modal-content"
+			],
+			[
+				"peop",
+				"peopleList"
+			],
+			[
+				"arra",
+				"array_of_people"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"array_",
+				"array_of_events"
+			],
+			[
+				"loadeven",
+				"loadAllEvents"
+			],
+			[
+				"targe",
+				"targetObject"
+			],
+			[
+				"EventL",
+				"EventListing"
+			],
+			[
+				"per",
+				"personid"
+			],
+			[
+				"chan",
+				"channelValue〔variable〕"
+			],
+			[
+				"cha",
+				"channelName〔variable〕"
+			],
+			[
+				"inter",
+				"intervalType〔variable〕"
+			],
+			[
+				"keyp",
+				"keypressListener"
+			],
+			[
+				"visib",
+				"visibility: 〔property〕"
+			],
+			[
+				"event",
+				"eventBtn"
+			],
+			[
+				"title",
+				"titleBorder"
+			],
+			[
+				"array_of",
+				"array_of_people"
+			],
+			[
+				"tar",
+				"targetDiv〔variable〕"
+			],
+			[
+				"chanee",
+				"channelValue"
+			],
+			[
+				"int",
+				"intervalTime"
+			],
+			[
+				"target",
+				"targetDiv"
+			],
+			[
+				"chann",
+				"channelName"
+			],
+			[
+				"person",
+				"$personId〔variable〕"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"viewpo",
+				"$viewportTitle〔variable〕"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"restb",
+				"restBaseClass"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"http_parse",
+				"http_parse_headers"
+			],
+			[
+				"response",
+				"responseBody"
+			],
+			[
+				"respon",
+				"responseBody"
+			],
+			[
+				"new",
+				"newConn"
+			],
+			[
+				"abstr",
+				"abstractPrint"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"get_def",
+				"get_defined_functions"
+			],
+			[
+				"dbR",
+				"dbRevVal"
+			],
+			[
+				"errorM",
+				"errorMessage"
+			],
+			[
+				"revi",
+				"revisionStatus"
+			],
+			[
+				"file",
+				"file_get_contents"
+			],
+			[
+				"htmlspec",
+				"htmlspecialchars_decode"
+			],
+			[
+				"serializ",
+				"v8.serialize"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"tinymc",
+				"tinymce"
+			],
+			[
+				"enco",
+				"encodeText"
+			],
+			[
+				"bl",
+				"inline-block\tdisplay"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"thee",
+				"theEnd"
+			],
+			[
+				"htmlsp",
+				"htmlspecialchars_decode"
+			],
+			[
+				"htmlspe",
+				"htmlspecialchars"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"pritn",
+				"print_r"
+			],
+			[
+				"recurs",
+				"recurseList\tstatement"
+			],
+			[
+				"obj",
+				"objName\tparam"
+			],
+			[
+				"ob",
+				"objName\tparam"
+			],
+			[
+				"filea",
+				"fileAryElem"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rpgSite/app.js",
+			"settings":
+			{
+				"buffer_size": 899,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"zeal",
+				"Preferences: Zeal Key Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format JSON Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format JSON Lines"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"insta\t",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnta\t",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"pacak",
+				"Package Control: Remove Package"
+			],
+			[
+				"LSP: disable",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"LSP",
+				"LSP: Restart Servers"
+			],
+			[
+				"packagr",
+				"Package Control: Remove Package"
+			],
+			[
+				"LSP: Enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP: enable\t",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package in\t",
+				"Package Control: Install Package"
+			],
+			[
+				"fotmat",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"indnet",
+				"Indent XML"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: remove\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				" package control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"package control: advanced",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Add Repository"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 350.0,
+		"history":
+		[
+			"ls",
+			"os.getcwd();",
+			"os.path",
+			"version",
+			"import os;",
+			"import sys;",
+			"import sys.io;",
+			"__DIR__",
+			"pwd",
+			"this.restart()",
+			"restart();",
+			"restart()",
+			"restart"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/michael/src/rpgGroupTool",
+		"/home/michael/src/rpgGroupTool/rpgSite"
+	],
+	"file_history":
+	[
+		"/home/michael/src/rpgGroupTool/app.js",
+		"/home/michael/src/rpgGroupTool/index.html",
+		"/home/michael/sqltest",
+		"/home/michael/src/writtenRecords/DnD/StoryTimeWithScott/Markus Ethlin",
+		"/home/michael/OOtest",
+		"/home/michael/src/writtenRecords/DnD/StoryTimeWithScott/UvarLupin",
+		"/home/michael/src/bastionsrc/urban-parakeet-hp/contiguousColorsTest",
+		"/home/michael/src/bastionsrc/urban-parakeet-hp/README.md",
+		"/home/michael/src/writtenRecords/Arthreus/CampaignOfFour/Council of Five",
+		"/home/michael/src/writtenRecords/FateCore/A Tavern Loafer",
+		"/home/michael/src/bastionsrc/urban-parakeet-hp/udeploy.sh",
+		"/home/michael/src/writtenRecords/Arthreus/Fear Witch",
+		"/home/michael/src/writtenRecords/DnD/UvarLupin",
+		"/home/michael/src/writtenRecords/I LOVE YOU!!",
+		"/home/michael/src/writtenRecords/DnD/BardChar",
+		"/home/michael/src/writtenRecords/BusinessDocs/Bastion Software/products/IdeaTrackerDatabaseDesign",
+		"/home/michael/src/writtenRecords/BusinessDocs/Bastion Software/products/ideaTrackerRequirements",
+		"/home/michael/src/writtenRecords/BusinessDocs/Bastion Software/products/requirements-DataDictionary",
+		"/home/michael/src/toolbox/orderOps.php",
+		"/home/michael/src/writtenRecords/BusinessDocs/Bastion Software/products/idea tracker workflow",
+		"/home/michael/src/writtenRecords/BusinessDocs/Bastion Software/products/dataDictionaryWorkflow",
+		"/home/michael/Downloads/genymotion-3.2.1-linux_x64.bin",
+		"/home/michael/src/writtenRecords/BusinessDocs/Bastion Software/1. Make A Software Requirements Specification Outl",
+		"/home/michael/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/michael/Downloads/Test Scene.fari.json",
+		"/home/michael/src/dialogTreeTool/site/app.js",
+		"/home/michael/src/dialogTreeTool/site/index.php",
+		"/home/michael/src/dialogTreeTool/site/game.html",
+		"/home/michael/src/writtenRecords/BusinessDocs/Bastion Software/products/DataDictionary_explanation",
+		"/home/michael/src/spaceGame/ubuntuDeployLocal.sh",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/index.php",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/powerlistings/config/database.php",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/js/script.js",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/README.md",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/categories.php",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/123Local.sublime-workspace",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/123Local.sublime-project",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/.gitignore",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/banner-advertising.php",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/js/datatables.min.js",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/powerlistings/objects/old-asitis-beforeinder-sav-product.php",
+		"/home/michael/src/bastionsrc/123LocalPublicHtml/link-building.php",
+		"/tmp/mozilla_michael0/index.php",
+		"/home/michael/I LOVE YOU!!",
+		"/home/michael/src/dialogTreeTool/ubuntuDeployLocal.sh",
+		"/home/michael/src/bastionsrc/MDL/deployLocal.sh",
+		"/home/michael/src/dialogTreeTool/deployLocal.sh",
+		"/home/michaelmcpherson/src/comnavnotes/TIMELINE FOR PHP SITE MIGRATION",
+		"/home/michaelmcpherson/I LOVE YOU!!",
+		"/home/michaelmcpherson/iftop_top.json",
+		"/home/michaelmcpherson/src/toolbox/extantRepos",
+		"/home/michaelmcpherson/Documents/BusinessDocs/agreements",
+		"/home/michaelmcpherson/Documents/BusinessDocs/WRITER'S AGREEMENT",
+		"/home/michaelmcpherson/Documents/BusinessDocs/sampleContract3",
+		"/home/michaelmcpherson/Documents/BusinessDocs/sampleContact2",
+		"/home/michaelmcpherson/Documents/BusinessDocs/samplecontract",
+		"/home/michaelmcpherson/Downloads/transactions.csv",
+		"/home/michaelmcpherson/src/bastionSrc/MDL/deployLocal.sh",
+		"/home/michaelmcpherson/src/bastionSrc/MDL/resources/config.php",
+		"/home/michaelmcpherson/src/bastionSrc/MDL/.gitignore",
+		"/home/michaelmcpherson/src/bastionSrc/listhosts.txt",
+		"/home/michaelmcpherson/src/bastionSrc/MDL/posts/EnglishCicero",
+		"/home/michaelmcpherson/Documents/BusinessDocs/Gray Optics/gray optics chat transcript",
+		"/home/michaelmcpherson/src/bastionSrc/homepage/js/main.js",
+		"/home/michaelmcpherson/src/bastionSrc/gitScan.sh",
+		"/home/michaelmcpherson/src/bastionSrc/homepage/deployLocal.sh",
+		"/home/michaelmcpherson/src/bastionSrc/homepage/.gitignore",
+		"/home/michaelmcpherson/src/bastionSrc/homepage/bastionHomePage.sublime-project",
+		"/var/www/html/oriverb/oriverb/index.html",
+		"/home/michaelmcpherson/src/jubilant-octo-lamp/README.md",
+		"/var/www/html/oriverb/oriverb/js/main.js",
+		"/var/www/html/homepage/proposal.html",
+		"/home/michaelmcpherson/src/notMine/dbanalyzer/mysql.php",
+		"/home/michaelmcpherson/src/comnavnotes/transferData/autoCadTransposer/ww.txt",
+		"/home/michaelmcpherson/Documents/BusinessDocs/Group Dynamics/GD notes",
+		"/home/michaelmcpherson/src/comnavnotes/transferData/autoCadTransposer/cad.txt",
+		"/home/michaelmcpherson/src/comnavnotes/ComNavNotes",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/defaultConnector.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/PasswordHash.php",
+		"/home/michaelmcpherson/Documents/power consumption",
+		"/home/michaelmcpherson/Documents/BusinessDocs/possible heating guy for apartment",
+		"/home/michaelmcpherson/src/staggeredContact/writepass.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/pierrefrancoisdulac.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/js/helper.js",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/index.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/loadEventsSinceLastContact.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/loadtodayspeople.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/logout.php",
+		"/home/michaelmcpherson/keys",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/wpa_supplicant.conf",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/css/style.css",
+		"/home/michaelmcpherson/src/gitRecurse/gitScan.sh",
+		"/home/michaelmcpherson/src/writtenRecords/how to symbolic link your www-http folder to dev source",
+		"/home/michaelmcpherson/src/comnavnotes/DWFtoJPG/DWFToImage/DWFToImage/Form1.cs",
+		"/home/michaelmcpherson/src/comnavnotes/elems",
+		"/home/michaelmcpherson/src/comnavnotes/DWFtoJPG/DWFToImage/DWFToImage/Program.cs",
+		"/home/michaelmcpherson/src/roundtable/js/app2.js",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/addEvent.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/loadAllEvents.php",
+		"/media/michaelmcpherson/CentOS-8-2-2004-aarch64-dvd/boot.catalog",
+		"/home/michaelmcpherson/SOLAR calculations",
+		"/home/michaelmcpherson/src/phpInsecureREST/api/shared/abstractRestConnection.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/addPerson.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/js/modal.js",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/css/modal.css",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/loadPeople.php",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/resources/uiConfig.php",
+		"/home/michaelmcpherson/src/staggeredContact/README.md",
+		"/home/michaelmcpherson/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/home/michaelmcpherson/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+		"/home/michaelmcpherson/src/staggeredContact/staggeredContacts/css/leftBarFlexItems.css",
+		"/home/michaelmcpherson/src/staggeredContact/deployLocal.sh",
+		"/home/michaelmcpherson/src/staggeredContact/.jshintrc",
+		"/home/michaelmcpherson/src/notMine/nodeserv/var/nodeserv/node.js/node_modules/extender/.jshintrc",
+		"/home/michaelmcpherson/src/newUIframework/uiSite/index.php",
+		"/home/michaelmcpherson/src/roundtable/webmethods/getAvailableUsers.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/resources/postHandler.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/resources/pushHandler.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/resources/loadPost.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/resources/postHandler.php",
+		"/home/michaelmcpherson/.config/sublime-text-3/Packages/User/CommandOnSave.sublime-settings",
+		"/home/michaelmcpherson/src/SublimeCommandOnSave/CommandOnSave.py",
+		"/home/michaelmcpherson/src/staggeredContact/.onsave",
+		"/home/michaelmcpherson/.config/sublime-text-3/Packages/User/Default.sublime-settings",
+		"/home/michaelmcpherson/.config/sublime-text-3/Packages/OnSave/Default.sublime-settings",
+		"/home/michaelmcpherson/src/gitRecurse/gitPull.config",
+		"/home/michaelmcpherson/src/gitRecurse/confBuilder.sh",
+		"/home/michaelmcpherson/src/staggeredContact/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rpgSite/app.js",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 127.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 127.0
+	},
+	"output.diagnostics":
+	{
+		"height": 121.0
+	},
+	"output.exec":
+	{
+		"height": 385.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 121.0
+	},
+	"output.nodejs":
+	{
+		"height": 157.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "rpgGame.md",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
